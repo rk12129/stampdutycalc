@@ -1,0 +1,19 @@
+body {
+  max-width: 500px;
+}
+
+.hide-text {
+  text-indent: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+#calculate {
+  margin: 15px;
+
+}
+
+.jumbotron {
+  margin-bottom: 5px;
+  padding-bottom: 5px;
+}

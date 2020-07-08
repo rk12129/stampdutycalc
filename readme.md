@@ -5,4 +5,4 @@ A simple Javascript calculator that takes a house price and provides the UK Stam
 
 Uses JQuery, Autonumeric and Bootstrap.
 
-See it in action at http://stampdutycalculator.tax
+See it in action at https://rk12129.github.io/stampdutycalc/
